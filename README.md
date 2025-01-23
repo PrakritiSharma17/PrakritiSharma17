@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @PrakritiSharma17
 - B.tech CSBS student
-- currently learning python
-- intrested to learn Java  
 
 
 <!---
