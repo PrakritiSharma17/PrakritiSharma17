@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @PrakritiSharma17
-- B.tech CSBS student
+Prakriti Sharma A
+3rd yr B.Tech CSBS
+
 
 
 <!---
